@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Number 1"
+    },
+    {
+      "id": 2,
+      "title": "Number 2"
+    },
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Comment 2",
+      "postId": 1
+    }
+  ],
+  {
+  "items": [
+    {
+      "id": 1,
+      "title": "item 1"
+    },
+    {
+      "id": 2,
+      "title": "item 2"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
